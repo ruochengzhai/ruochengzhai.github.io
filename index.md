@@ -1,2 +1,2 @@
 ## Curriculum Vitae
-See my <a href="https://github.com/ruochengzhai/ruochengzhai.github.io/blob/main/CV.pdf"> CV</a>.
+See my <a href="https://ruochengzhai.github.io/CV.pdf"> CV</a>.
