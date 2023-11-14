@@ -5,4 +5,4 @@ I am undergraduate student at Department of Physics, Tsinghua University, Beijin
 See my <a href="https://ruochengzhai.github.io/CV.pdf"> CV</a>.
 
 ## Contact Me
-drc20@mails.tsinghua.edu.cn
+<a href="mailto:drc20@mails.tsinghua.edu.cn"> drc20@mails.tsinghua.edu.cn</a>.
