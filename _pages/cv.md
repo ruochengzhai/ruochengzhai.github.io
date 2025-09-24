@@ -16,7 +16,7 @@ Education
   * Advisor: Dr. David Radice
 * 2020 - 2024: B.S. Physics
   * Tsinghua University, China
-  Advisor: Dr. Shude Mao
+  * Advisor: Dr. Shude Mao
 
 <!-- Work experience
 ======
