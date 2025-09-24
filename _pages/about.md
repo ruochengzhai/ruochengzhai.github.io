@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a graduate student at the Department of Astronomy \& Astrophysics at the Pennsylvania State University. I am working on the simulation of Kilonova events, which are electromagnetic signals of neutron star mergers. 
+I am a graduate student at the Department of Astronomy and Astrophysics at the Pennsylvania State University. I am working on the simulation of Kilonova events, which are electromagnetic signals of neutron star mergers. 
 
 I completed my B.S. degree at the Department of Physics, Tsinghua University.
