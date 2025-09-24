@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Ruocheng Zhai
     - name: Email
       value: <a href="mailto:rzhai@psu.edu"> rzhai@psu.edu</a>
@@ -25,19 +25,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
-      items:
-        - University Graduate Fellowship, Penn State
-    - year: 2024
-      items:
-        - Paul M. Doty Distinguished Graduate Fellowship, Penn State
+    - title: University Graduate Fellowship, Penn State
+      year: 2025
+    - title: Paul M. Doty Distinguished Graduate Fellowship, Penn State
+      year: 2024
 
 - title: Publications
-  type: time_table
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Zhai, R., Poleski, R., Zang, W., et al. 2024, AJ,
+      description: OGLE-2017-BLG-0448Lb: A Low Mass-Ratio Wide-Orbit Microlensing Planet?
 
 - title: Presentations
   type: time_table
