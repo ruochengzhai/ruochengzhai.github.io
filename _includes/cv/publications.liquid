@@ -1,9 +1,9 @@
 <ol class="list-group list-group-numbered">
   {% for pub in entry.contents %}
     <li class="list-group-item">
-      {{ pub.authors | markdownify }}, {{ pub.year }}, {{ pub.journal }},
+      {{ pub.authors | markdownify | strip}}, {{ pub.year }}, {{ pub.journal }},
       <a href="https://doi.org/{{ pub.doi }}">{{ pub.doi }}</a><br>
-      <em>{{ pub.title | markdownify}}</em>
+      <em>{{ pub.title | markdownify | strip}}</em>
     </li>
   {% endfor %}
 </ol>

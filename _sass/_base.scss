@@ -285,12 +285,12 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -301,7 +301,7 @@ ul.task-list input[type="checkbox"] {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -386,12 +386,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-#light-toggle,
+#light-toggle {
+  font-size: 1.5rem;
+}
 #search-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  font-size: 1.5rem;
 
   &:hover {
     color: var(--global-hover-color);
