@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/ZyOEINiESPykcjlaAsr2tw) 
-* All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/k0VT6nQWRde7mna9CR2Wag)
+* First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/k0VT6nQWRde7mna9CR2Wag) 
+* All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/ZyOEINiESPykcjlaAsr2tw)
 
 <h2>First Author Journal Submission</h2> 
 
