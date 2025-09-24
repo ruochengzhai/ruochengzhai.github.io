@@ -33,11 +33,30 @@
 - title: Publications
   type: publications
   contents:
+    - authors: "**Zhai, R.**, Man Hoi Lee, Tianjun Gan, et al."
+      year: 2025
+      journal: "ApJ"
+      doi: "10.3847/1538-4357/adf557"
+      title: "*Dynamical Instability of Multiplanet Systems and Free-floating Planets*"
+
     - authors: "**Zhai, R.**, Rodriguez, A. C., Mao, S., et al."
       year: 2025
       journal: "ApJ"
       doi: "10.3847/1538-4357/ad94e7"
-      title: "Microlensing Events in Five Years of Photometry from the Zwicky Transient Facility"      
+      title: "*Microlensing Events in Five Years of Photometry from the Zwicky Transient Facility*"
+
+    - authors: "Gui, Y., Zang, W., **Zhai, R.**, et al."
+      year: 2024
+      journal: "AJ"
+      doi: "10.3847/1538-3881/ad4ce5"
+      title: "*Systematic KMTNet Planetary Anomaly Search. XII. Complete Sample of 2017 Subprime Field Planets*"
+
+    - authors: "**Zhai, R.**, Poleski, R., Zang, W., et al."
+      year: 2024
+      journal: "AJ"
+      doi: "10.3847/1538-3881/ad284f"
+      title: "*OGLE-2017-BLG-0448Lb: A Low Mass-Ratio Wide-Orbit Microlensing Planet?*"
+   
 
 - title: Presentations
   type: time_table
